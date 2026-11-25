@@ -1,0 +1,363 @@
+{
+  "version": "3.0.0",
+  "description": "Catalog of 9-Emotion Meme Stickers, 3D Emojis, Heavy Audio Cues, and Facial Vibe Insights",
+  "emotions": {
+    "PEACE": {
+      "name": "Peace",
+      "archetype": "Shanta (Zen, Serenity)",
+      "sticker": "assets/memes/peace_lotus.png",
+      "emoji": "assets/memes/emoji_zen_angel.png",
+      "sound": "assets/sounds/peace_bell.wav",
+      "sound_alt": "assets/sounds/heavy_cinematic_thud.wav",
+      "default_filter": "zen_mist",
+      "color_bgr": [
+        230,
+        245,
+        230
+      ],
+      "vibe_insights": [
+        "VIBE: At 100% inner peace while the world burns",
+        "FEELING: Unbothered, moisturized, in their own lane",
+        "INSIGHT: Zero thoughts behind these eyes, pure bliss",
+        "MINDSET: The bug is officially a feature now"
+      ],
+      "fallback_captions": [
+        {
+          "top": "INNER PEACE ACHIEVED",
+          "bottom": "WIFI DISCONNECTED"
+        },
+        {
+          "top": "ZERO THOUGHTS",
+          "bottom": "HEAD COMPLETELY EMPTY"
+        },
+        {
+          "top": "CALM AS A BUDDHA",
+          "bottom": "CHAOS IN THE TERMINAL"
+        },
+        {
+          "top": "ACCEPTANCE STAGE",
+          "bottom": "THE BUG IS A FEATURE NOW"
+        }
+      ]
+    },
+    "LOVE": {
+      "name": "Love",
+      "archetype": "Shringara (Affection, Romance)",
+      "sticker": "assets/memes/love_hearts.png",
+      "emoji": "assets/memes/emoji_heart_eyes.png",
+      "sound": "assets/sounds/love_harp.wav",
+      "sound_alt": "assets/sounds/wow_anime.wav",
+      "default_filter": "dreamy_glow",
+      "color_bgr": [
+        200,
+        100,
+        255
+      ],
+      "vibe_insights": [
+        "VIBE: Heart melting like butter on fresh toast",
+        "FEELING: Looking at their crush or a plate of biryani",
+        "INSIGHT: Pupil dilation 100%, smitten beyond repair",
+        "INTERNAL: Must protect this sweet smile at all costs"
+      ],
+      "fallback_captions": [
+        {
+          "top": "POV: MY CRUSH",
+          "bottom": "WALKED INTO THE ROOM"
+        },
+        {
+          "top": "ME LOOKING AT",
+          "bottom": "CLEAN DOCUMENTED CODE"
+        },
+        {
+          "top": "WHEN THE CODE COMPILES",
+          "bottom": "ON THE FIRST TRY"
+        },
+        {
+          "top": "HEART EYES ACTIVATED",
+          "bottom": "SEND HELP IMMEDIATELY"
+        }
+      ]
+    },
+    "LAUGHTER": {
+      "name": "Laughter",
+      "archetype": "Hasya (Joy, Humor)",
+      "sticker": "assets/memes/laughter_tears.png",
+      "emoji": "assets/memes/emoji_laugh_crying.png",
+      "sound": "assets/sounds/laughter_boing.wav",
+      "sound_alt": "assets/sounds/heavy_bass_drop.wav",
+      "default_filter": "cartoon_sketch",
+      "color_bgr": [
+        40,
+        220,
+        255
+      ],
+      "vibe_insights": [
+        "VIBE: Remembering an illegal joke from 2019 in public",
+        "FEELING: 0% serious, 100% mischief and pure chaos",
+        "INSIGHT: Fighting for their life not to burst out laughing",
+        "THOUGHT: If I speak right now I will lose my dignity"
+      ],
+      "fallback_captions": [
+        {
+          "top": "WHEN YOU FIX A BUG",
+          "bottom": "BY DELETING THE TEST"
+        },
+        {
+          "top": "I'M NOT LAUGHING AT YOU",
+          "bottom": "OK YES I AM"
+        },
+        {
+          "top": "WROTE 1 LINE OF CODE",
+          "bottom": "FEELS LIKE HACKERMAN"
+        },
+        {
+          "top": "MY JOKE WAS HILARIOUS",
+          "bottom": "THE AUDIENCE WAS WRONG"
+        }
+      ]
+    },
+    "SORROW": {
+      "name": "Sorrow",
+      "archetype": "Karuna (Grief, Melancholy)",
+      "sticker": "assets/memes/sorrow_raincloud.png",
+      "emoji": "assets/memes/emoji_crying_stream.png",
+      "sound": "assets/sounds/sorrow_violin.wav",
+      "sound_alt": "assets/sounds/heavy_cinematic_thud.wav",
+      "default_filter": "noir",
+      "color_bgr": [
+        220,
+        140,
+        60
+      ],
+      "vibe_insights": [
+        "VIBE: Dramatic main character in the rain gazing out a window",
+        "FEELING: Remembering an embarrassing thing said in 6th grade",
+        "INSIGHT: Critical emotional damage, needs chai and hugs ASAP",
+        "THOUGHT: Alexa, play Sad Romance on a 10-hour loop"
+      ],
+      "fallback_captions": [
+        {
+          "top": "GIT PUSH --FORCE",
+          "bottom": "ON PRODUCTION MAIN"
+        },
+        {
+          "top": "HELLO DARKNESS",
+          "bottom": "MY OLD FRIEND"
+        },
+        {
+          "top": "FORGOT THE WHERE CLAUSE",
+          "bottom": "IN THE DELETE STATEMENT"
+        },
+        {
+          "top": "EMOTIONAL DAMAGE",
+          "bottom": "MAXIMUM SEVERITY"
+        }
+      ]
+    },
+    "ANGER": {
+      "name": "Anger",
+      "archetype": "Raudra (Fury, Rage)",
+      "sticker": "assets/memes/anger_steam.png",
+      "emoji": "assets/memes/emoji_angry_devil.png",
+      "sound": "assets/sounds/heavy_bass_drop.wav",
+      "sound_alt": "assets/sounds/heavy_metal_slam.wav",
+      "default_filter": "deep_fried",
+      "color_bgr": [
+        30,
+        40,
+        240
+      ],
+      "vibe_insights": [
+        "VIBE: 1 minor inconvenience away from picking up a keyboard to fight",
+        "FEELING: Who touched the prod database indentation?!",
+        "INSIGHT: Blood pressure spike detected, caution advised",
+        "THOUGHT: Violence isn't the answer, it's a question and the answer is YES"
+      ],
+      "fallback_captions": [
+        {
+          "top": "WHO TOUCHED",
+          "bottom": "MY INDENTATION"
+        },
+        {
+          "top": "MERGE CONFLICT IN LINE 1",
+          "bottom": "KEYBOARD WILL SUFFER"
+        },
+        {
+          "top": "CALM IS NOT AN OPTION",
+          "bottom": "VIOLENCE IS CHOSEN"
+        },
+        {
+          "top": "IT WORKED ON MY MACHINE",
+          "bottom": "WHY DEPLOY IT THEN"
+        }
+      ]
+    },
+    "COURAGE": {
+      "name": "Courage",
+      "archetype": "Vira (Heroic Resolve, Grit)",
+      "sticker": "assets/memes/courage_aura.png",
+      "emoji": "assets/memes/emoji_gigachad.png",
+      "sound": "assets/sounds/courage_fanfare.wav",
+      "sound_alt": "assets/sounds/heavy_cinematic_thud.wav",
+      "default_filter": "golden_aura",
+      "color_bgr": [
+        40,
+        200,
+        255
+      ],
+      "vibe_insights": [
+        "VIBE: Boss fight music is playing and I AM the final boss",
+        "FEELING: About to push direct to prod with zero tests and zero fear",
+        "INSIGHT: Pure GigaChad aura, jawline sharp enough to cut glass",
+        "MINDSET: I didn't come to participate, I came to conquer"
+      ],
+      "fallback_captions": [
+        {
+          "top": "FINAL BOSS MUSIC STARTS",
+          "bottom": "AND I AM READY"
+        },
+        {
+          "top": "TESTING DIRECTLY IN PROD",
+          "bottom": "LIKE A TRUE CHAD"
+        },
+        {
+          "top": "NEVER BACK DOWN",
+          "bottom": "NEVER WHAT? NEVER GIVE UP"
+        },
+        {
+          "top": "MAIN CHARACTER ENERGY",
+          "bottom": "LEVEL NINE THOUSAND"
+        }
+      ]
+    },
+    "FEAR": {
+      "name": "Fear",
+      "archetype": "Bhayanaka (Terror, Shock)",
+      "sticker": "assets/memes/fear_ghost.png",
+      "emoji": "assets/memes/emoji_skull_dead.png",
+      "sound": "assets/sounds/heavy_glitch_bass.wav",
+      "sound_alt": "assets/sounds/fear_sting.wav",
+      "default_filter": "eerie_vignette",
+      "color_bgr": [
+        240,
+        100,
+        180
+      ],
+      "vibe_insights": [
+        "VIBE: Just remembered the assignment was due 10 minutes ago",
+        "FEELING: The senior dev just sent 'quick call?' on Slack",
+        "INSIGHT: Survival instincts triggered, fight-or-flight at 99%",
+        "THOUGHT: If I don't move, maybe the deadline can't see me"
+      ],
+      "fallback_captions": [
+        {
+          "top": "THE SENIOR DEV",
+          "bottom": "JUST TYPED 'CAN WE TALK?'"
+        },
+        {
+          "top": "SSH TERMINAL UNRESPONSIVE",
+          "bottom": "SWEAT INTENSIFIES"
+        },
+        {
+          "top": "WHEN THE SCRIPT RUNS",
+          "bottom": "FOR 10 MINUTES IN SILENCE"
+        },
+        {
+          "top": "HEAR FOOTSTEPS AT 3 AM",
+          "bottom": "JUST THE GARBAGE COLLECTOR"
+        }
+      ]
+    },
+    "DISGUST": {
+      "name": "Disgust",
+      "archetype": "Bibhatsa (Revulsion, Aversion)",
+      "sticker": "assets/memes/disgust_nauseous.png",
+      "emoji": "assets/memes/emoji_clown.png",
+      "sound": "assets/sounds/bruh.wav",
+      "sound_alt": "assets/sounds/disgust_gag.wav",
+      "default_filter": "toxic_matrix",
+      "color_bgr": [
+        60,
+        220,
+        80
+      ],
+      "vibe_insights": [
+        "VIBE: Reading legacy code with 14 nested IF statements",
+        "FEELING: Major ick detected from 5 miles away",
+        "INSIGHT: Involuntary cringe reflex, instant revulsion",
+        "THOUGHT: Eww brother eww... what is that?!"
+      ],
+      "fallback_captions": [
+        {
+          "top": "MAJOR ICK DETECTED",
+          "bottom": "1000 YARDS OF DISTANCE NEEDED"
+        },
+        {
+          "top": "READING LEGACY CODE",
+          "bottom": "WRITTEN IN 2012"
+        },
+        {
+          "top": "NO COMMENTS ANYWHERE",
+          "bottom": "VARIABLE NAME IS 'xyz_final2'"
+        },
+        {
+          "top": "THAT OPINION",
+          "bottom": "MADE ME PHYSICALLY ILL"
+        }
+      ]
+    },
+    "WONDER": {
+      "name": "Wonder",
+      "archetype": "Adbhuta (Awe, Amazement)",
+      "sticker": "assets/memes/wonder_stars.png",
+      "emoji": "assets/memes/emoji_shocked_mindblown.png",
+      "sound": "assets/sounds/heavy_cinematic_thud.wav",
+      "sound_alt": "assets/sounds/wonder_chime.wav",
+      "default_filter": "cosmic_shift",
+      "color_bgr": [
+        255,
+        220,
+        60
+      ],
+      "vibe_insights": [
+        "VIBE: Just realized the universe is expanding into nothingness",
+        "FEELING: When the code actually compiled on the first try",
+        "INSIGHT: Mind officially blown into a million cosmic stars",
+        "THOUGHT: Wait... are we living in a simulation?!"
+      ],
+      "fallback_captions": [
+        {
+          "top": "MIND EQUALS BLOWN",
+          "bottom": "COSMOS UNLOCKED"
+        },
+        {
+          "top": "WHEN THE RECURSIVE FUNCTION",
+          "bottom": "ACTUALLY TERMINATES"
+        },
+        {
+          "top": "IS THIS REAL LIFE",
+          "bottom": "OR JUST MATRIX SIMULATION"
+        },
+        {
+          "top": "A WHOLE NEW WORLD",
+          "bottom": "OF UNDOCUMENTED APIS"
+        }
+      ]
+    }
+  },
+  "soundboard": {
+    "heavy_drop": "assets/sounds/heavy_bass_drop.wav",
+    "cinematic_thud": "assets/sounds/heavy_cinematic_thud.wav",
+    "glitch_bass": "assets/sounds/heavy_glitch_bass.wav",
+    "metal_slam": "assets/sounds/heavy_metal_slam.wav",
+    "vine_boom": "assets/sounds/vine_boom.wav",
+    "bruh": "assets/sounds/bruh.wav",
+    "thug_horn": "assets/sounds/thug_life_horn.wav",
+    "wow": "assets/sounds/wow_anime.wav",
+    "emotional_damage": "assets/sounds/emotional_damage.wav",
+    "record_scratch": "assets/sounds/record_scratch.wav",
+    "victory": "assets/sounds/victory_fanfare.wav",
+    "scream": "assets/sounds/screaming_goat.wav",
+    "shutter": "assets/sounds/shutter.wav"
+  }
+}
